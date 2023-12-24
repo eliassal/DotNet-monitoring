@@ -22,7 +22,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: dotnet-app-service
+  name: dotnet-app-secops-service
 spec:
   selector:
     app: dotnet-app-secops
